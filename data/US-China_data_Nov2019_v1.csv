@@ -1,0 +1,39 @@
+Country,Name,Title,Influence (y-axis),Positive or negative relationship with China (x-axis),Tariffs,Market Access,Tech Access,Supply Chain Access,"Achieving ""Security & Control""",Strategic Competition,Domestic Politics
+United States,Donald Trump,POTUS,10,1,-2,3,0,0,,0,-1
+United States,Bill Barr,Attorney General,6,-4,0,0,-3,0,,-4,0
+United States,Mitch McConnell,Senate majority leader (Republican),6,0,0,1,0,0,,-1,0
+United States,Steven Mnuchin,Secretary of the Treasury,5,3,2,3,0,1,,0,0
+United States,Mike Pompeo,Secretary of State,5,-2,0,0,0,0,,-2,0
+United States,Mark Esper,Secretary of Defense,5,-3,0,0,-2,-2,,-4,0
+United States,Peter Navarro,Assistant to the president and director of the office of trade and manufacturing policy,5,-3,-3,0,0,0,,-2,0
+United States,Robert Lighthizer,US trade representative,5,3,2,3,0,0,,0,0
+United States,Republican Senate hawks,"Tom Cotton, Marco Rubio",4,-4,0,0,-3,-3,,-4,-2
+United States,Apple,,4,4,0,0,2,4,,0,0
+United States,Stephen Schwarzman,CEO of the Blackstone Group,4,4,0,4,0,0,,0,0
+United States,Wilbur Ross,Secretary of Commerce,3,1,0,3,0,2,,-1,0
+United States,Semiconductor industry,,3,4,0,5,0,5,,-1,0
+United States,Telecom carriers,,3,-1,0,0,0,0,,-2,0
+United States,Steve Bannon,Former advisor to POTUS,3,-4,0,0,0,0,,-4,0
+United States,Matthew Pottinger,Deputy national security advisor,2,-4,0,0,-2,-3,,-4,0
+United States,Christopher Wray,Director of the FBI,2,-4,0,0,-3,0,,-4,0
+United States,US intelligence community,,2,-4,0,0,-2,-3,,-4,0
+United States,Google,,2,3,0,1,2,3,,0,0
+United States,Facebook,,2,0,0,2,0,0,,-2,0
+United States,Chuck Schumer,Senate minority leader (Democrat),-2,-3,-3,1,0,0,,-3,-3
+United States,Nancy Pelosi,Speaker of the House (Democrat),-4,-3,-3,1,0,0,,-3,-3
+United States,Joe Biden,Candidate for the Democratic nomination for president,-5,1,-1,3,0,0,,-1,-2
+United States,Elizabeth Warren,Candidate for the Democratic nomination for president,-6,-4,-4,0,0,0,,-2,-4
+United States,Pete Buttigieg,Candidate for the Democratic nomination for president,-6,-4,-4,0,0,0,,-3,-4
+United States,Bernie Sanders,Candidate for the Democratic nomination for president,-6,-4,-4,0,0,0,,-1,-4
+United States,US think tanks/China experts,,-8,2,2,0,2,0,,-3,0
+China,Xi Jinping,Chairman,10,-2,-3,0,-1,-1,3,,
+China,Liu He,"Politbureau - Economics, LSG Reform of Science, Tech and Innovation",6,-3,-3,0,-3,-2,2,,
+China,Yang Jiechi,Politbureau - Foreign Affairs,4,-1,-3,0,0,-1,2,,
+China,Miao Wei,Minister - MIIT,6,-3,-1,0,-2,-2,4,,
+China,Li Keqiang,"Premier, LSG Science and Tehcnology",4,-3,-3,0,-2,-1,2,,
+China,Wang Zhigang,Minister - MOST,4,-1,-1,0,0,-1,4,,
+China,NDRC,,6,-2,-2,0,-2,-3,2,,
+China,CAC,,8,1,0,0,1,-2,4,,
+China,China Telcos,,5,-1,0,0,-1,0,1,,
+China,China Tech Cos,,3,-3,-1,0,-2,-3,1,,
+China,China VCs,,2,2,0,0,2,-1,3,,

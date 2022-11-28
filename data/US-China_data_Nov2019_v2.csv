@@ -1,0 +1,30 @@
+Country,Name,Title,Influence (y-axis),Desired 2020 relationship (x-axis),Tariffs,Market Access,Tech Access 2020,Supply Chain Access 2020,"Achieving ""Security & Control""",Strategic Competition,Domestic Politics
+United States,Donald Trump,POTUS,10,1,-2,3,0,0,,0,-1
+United States,Bill Barr,Attorney General,6,-4,0,0,-3,0,,-4,0
+United States,Mitch McConnell,Senate Majority Leader (Rep.),6,0,0,1,0,0,,-1,0
+United States,Steven Mnuchin,Secretary of the Treasury,5,3,2,3,0,1,,0,0
+United States,Mike Pompeo,Secretary of State,5,-2,0,0,0,0,,-2,0
+United States,Mark Esper,Secretary of Defense,5,-3,0,0,-2,-2,,-4,0
+United States,Peter Navarro,Assistant to the Pres. and Dir. of Office of Trade and Manufacturing Policy,5,-3,-3,0,0,0,,-2,0
+United States,Robert Lighthizer,US Trade Rep.,5,3,2,3,0,0,,0,0
+United States,Republican Senate Hawks,"Tom Cotton, Marco Rubio",4,-4,0,0,-3,-3,,-4,-2
+United States,Wilbur Ross,Secretary of Commerce,3,1,0,3,0,2,,-1,0
+United States,Semiconductor Industry,,3,4,0,5,0,5,,-1,0
+United States,US Intelligence Community,,2,-4,0,0,-2,-3,,-4,0
+United States,Congressional Democrats,,-2,-3,-3,1,0,0,,-3,-3
+United States,Joe Biden,Democratic Candidate ,-5,1,-1,3,0,0,,-1,-2
+United States,"Warren, Sanders, Buttigieg",Democratic Candidate ,-6,-4,-4,0,0,0,,-2,-4
+United States,US Think Tanks/China Experts,,-8,2,2,0,2,0,,-3,0
+United States,US Tech Cos,,2,3,0,1,2,3,,0,0
+China,Xi Jinping,Chairman,10,1,-3,0,2,1,-3,0,0
+China,Liu He,"Politbureau - Economics, LSG Reform of Science, Tech and Innovation",6,3,-3,0,2,2,-1,0,0
+China,Yang Jiechi,Politbureau - Foreign Affairs,4,0,-3,0,0,0,-1,0,0
+China,Miao Wei,Minister - MIIT,6,2,-1,0,2,2,-2,0,0
+China,Li Keqiang,"Premier, LSG Science and Tehcnology",4,2,-3,0,2,2,-2,0,0
+China,Wang Zhigang,Minister - MOST,4,-1,-1,0,3,0,-3,0,0
+China,Central Military Commission,,6,-1,0,0,2,1,-4,0,0
+China,NDRC,,6,3,-2,0,2,2,-1,0,0
+China,CAC,,6,-1,0,0,1,0,-3,0,0
+China,China Telcos,,5,1,0,0,0,1,0,0,0
+China,China Tech Cos,,3,3,-1,0,3,4,-2,0,0
+China,China VCs,,2,3,0,0,4,2,-1,0,0
